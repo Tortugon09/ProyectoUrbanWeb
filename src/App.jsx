@@ -17,6 +17,7 @@ function App() {
           <Route path="/ProyectoUrbanWeb/" element={<LayoutHome></LayoutHome>}></Route>
             <Route path="/SingIn" element={<LayoutSingIn></LayoutSingIn>}></Route>
             <Route path="*" element={<div>PAGINA NO ENCONTRADA</div>}></Route>
+          
         </Routes>
       </BrowserRouter>
     </>
