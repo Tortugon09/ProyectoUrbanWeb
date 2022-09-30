@@ -6,7 +6,7 @@ function HeaderMenu() {
  return(
      <nav className="menu">
          <ul className="list-menu">
-             <Link to="/"><li>Comunidad</li></Link>
+             <Link to="/ProyectoUrbanWeb/"><li>Comunidad</li></Link>
              <Link to="/SingIn"><li>SingIn</li></Link>
              <Link to="/"><li>Home</li></Link>
              <Link ></Link>
