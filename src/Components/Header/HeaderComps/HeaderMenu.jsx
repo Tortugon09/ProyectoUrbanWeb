@@ -8,7 +8,7 @@ function HeaderMenu() {
          <ul className="list-menu">
              <Link to="/ProyectoUrbanWeb/"><li>Comunidad</li></Link>
              <Link to="/SingIn"><li>SingIn</li></Link>
-             <Link to="/"><li>Home</li></Link>
+             <Link to="/ProyectoUrbanWeb/"><li>Home</li></Link>
              <Link ></Link>
          </ul>
      </nav>
