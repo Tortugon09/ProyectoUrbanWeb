@@ -1,0 +1,28 @@
+.box-titles .text-titles h1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 128px;
+    line-height: 136px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+.box-titles .text-titles{
+    position: absolute;
+    z-index: 2;
+}
+.box-titles .fondo-titles{
+    background: rgba(255, 0, 0, 0.51);
+    width: 633px;
+    height: 153px;
+    position: absolute;
+    z-index: 1;
+    top: 110px;
+    left: 65px;
+
+}
+.box-titles{
+    position: relative;
+    width: 714px;
+    height: 289px;
+}

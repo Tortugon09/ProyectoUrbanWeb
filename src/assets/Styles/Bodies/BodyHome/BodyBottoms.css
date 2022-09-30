@@ -1,0 +1,54 @@
+.box-bottoms .bottom1 img{
+    width: 15.01px;
+    height: 20px;
+}
+.box-bottoms .bottom1{
+    width: 262px;
+    height: 39px;
+    display: flex;
+    flex-direction: row;
+    gap: 9px;
+}
+.box-bottoms .bottom2{
+    width: 213px;
+    height: 60px;
+    text-decoration: none;
+}
+.box-bottoms .color-bottom{
+    background: #1D1D1D;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s ease;
+}
+
+.box-bottoms .bottom1 h3{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.box-bottoms .bottom2 h3{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 59px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.box-bottoms{
+    display: flex;
+    flex-direction: row;
+    gap: 219px;
+}
+.box-bottoms a{
+    text-decoration: none;
+}
+.box-bottoms .color-bottom:hover{
+    background: #FF0000;
+;
+
+}
+

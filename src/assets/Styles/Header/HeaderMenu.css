@@ -1,0 +1,23 @@
+
+.menu .list-menu{
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    list-style: none;
+}
+.menu .list-menu a{
+    text-decoration: none;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    transition: all 1s ease;
+    padding: 10px;
+
+    color: #FFFFFF;
+
+}
+.menu .list-menu a:hover{
+    transform: rotatex(1080deg);
+}
